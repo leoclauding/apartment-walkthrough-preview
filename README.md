@@ -1,5 +1,5 @@
 # Apartment preview
 
-[Whole apartment](https://leoclauding.github.io/apartment-walkthrough-preview/) · [Two-person study](https://leoclauding.github.io/apartment-walkthrough-preview/study.html)
+[Whole apartment, including the two-person study](https://leoclauding.github.io/apartment-walkthrough-preview/)
 
-Generated Three.js previews only. Original photographs, videos and scanned plans are excluded. Whole-apartment scale is provisional; study measurements apply only to the study.
+One integrated Three.js preview. The former study URL redirects into the same apartment. Original photographs, videos and scanned plans are excluded. Whole-apartment scale is provisional; study measurements apply only to the study.
